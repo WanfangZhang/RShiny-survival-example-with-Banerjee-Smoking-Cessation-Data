@@ -1,3 +1,15 @@
-## 🌐 Live Demo
+# Survival Analysis Shiny App
 
-[![Live App](https://img.shields.io/badge/Shiny-Live_App-blue?logo=rstudio)](https://yourname.shinyapps.io/rshiny/)
+## 🌐 Live Demo
+[Live App Link](https://wanfangzhang.shinyapps.io/rshiny/)
+
+## Overview
+This project demonstrates:
+- Kaplan–Meier estimation
+- Stratified survival analysis
+- Cox proportional hazards modeling
+- PH assumption testing
+
+
+## Run Locally
+shiny::runApp("app.R")
