@@ -1,4 +1,3 @@
 ## 🌐 Live Demo
 
-🔗 **View the interactive app here:**  
-[https://yourname.shinyapps.io/rshiny/](https://wanfangzhang.shinyapps.io/rshiny/)
+[![Live App](https://img.shields.io/badge/Shiny-Live_App-blue?logo=rstudio)](https://yourname.shinyapps.io/rshiny/)
