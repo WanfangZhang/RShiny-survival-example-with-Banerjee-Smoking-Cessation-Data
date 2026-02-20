@@ -1,6 +1,6 @@
 # Survival Analysis Shiny App
 
-## 🌐 Live Demo
+## Live Demo
 [Live App Link](https://wanfangzhang.shinyapps.io/rshiny/)
 
 ## App Screenshot
