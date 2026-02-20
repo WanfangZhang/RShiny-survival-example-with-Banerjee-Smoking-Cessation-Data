@@ -3,6 +3,9 @@
 ## 🌐 Live Demo
 [Live App Link](https://wanfangzhang.shinyapps.io/rshiny/)
 
+## App Screenshot
+![App Screenshot](Fig.jpeg)
+
 ## Overview
 
 This interactive Shiny application demonstrates core techniques in survival analysis in a compact, reproducible app suitable for portfolios, classroom demos, or research supplements.
